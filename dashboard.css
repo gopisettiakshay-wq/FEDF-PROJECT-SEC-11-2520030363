@@ -1,0 +1,217 @@
+/* ==========================================
+   HOTEL FOOD MANAGEMENT DASHBOARD STYLES
+========================================== */
+
+/* Dashboard Layout */
+
+.dashboard-container {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* KPI Cards */
+
+.kpi-card {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.kpi-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* Dashboard Headers */
+
+.dashboard-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.dashboard-subheading {
+  color: #6b7280;
+  margin-top: 5px;
+}
+
+/* Charts */
+
+.chart-container {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* Sidebar */
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.sidebar-link:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.sidebar-link.active {
+  background: #facc15;
+  color: black;
+  font-weight: 600;
+}
+
+/* Navbar */
+
+.navbar-shadow {
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+}
+
+/* Status Badges */
+
+.status-pending {
+  background: #ffedd5;
+  color: #c2410c;
+}
+
+.status-preparing {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+.status-ready {
+  background: #ede9fe;
+  color: #6d28d9;
+}
+
+.status-served {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.status-cancelled {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+/* Tables */
+
+.table-container {
+  overflow-x: auto;
+}
+
+.table-row:hover {
+  background-color: #f9fafb;
+}
+
+/* Forms */
+
+.form-input {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #d1d5db;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.form-input:focus {
+  border-color: #facc15;
+  box-shadow: 0 0 0 3px rgba(250, 204, 21, 0.25);
+}
+
+/* Buttons */
+
+.btn-primary {
+  background: #facc15;
+  color: black;
+  padding: 12px 20px;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background: #eab308;
+}
+
+.btn-danger {
+  background: #ef4444;
+  color: white;
+}
+
+.btn-danger:hover {
+  background: #dc2626;
+}
+
+.btn-success {
+  background: #22c55e;
+  color: white;
+}
+
+.btn-success:hover {
+  background: #16a34a;
+}
+
+/* Cards */
+
+.info-card {
+  background: white;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* Notification Animation */
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.notification-item {
+  animation: slideDown 0.3s ease;
+}
+
+/* Modal Animation */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.modal-overlay {
+  animation: fadeIn 0.25s ease;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  .dashboard-heading {
+    font-size: 1.5rem;
+  }
+
+  .chart-container {
+    padding: 15px;
+  }
+
+  .kpi-card {
+    padding: 15px;
+  }
+}

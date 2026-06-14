@@ -1,0 +1,5407 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Akshay Gopisetti",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "Admin",
+      "phone": "9876543210",
+      "profileImage": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+    }
+  ],
+  "dashboard": {
+    "totalOrders": 350,
+    "totalRevenue": 125000,
+    "activeTables": 28,
+    "inventoryItems": 120
+  },
+  "menuItems": [
+    {
+      "id": "1",
+      "name": "Paneer Butter Masala",
+      "category": "Veg",
+      "price": 120,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "2",
+      "name": "Palak Paneer",
+      "category": "Veg",
+      "price": 121,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "3",
+      "name": "Kadai Paneer",
+      "category": "Veg",
+      "price": 122,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "4",
+      "name": "Veg Biryani",
+      "category": "Veg",
+      "price": 123,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "5",
+      "name": "Veg Fried Rice",
+      "category": "Veg",
+      "price": 124,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "6",
+      "name": "Dal Tadka",
+      "category": "Veg",
+      "price": 125,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "7",
+      "name": "Chana Masala",
+      "category": "Veg",
+      "price": 126,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "8",
+      "name": "Aloo Gobi",
+      "category": "Veg",
+      "price": 127,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "9",
+      "name": "Mushroom Curry",
+      "category": "Veg",
+      "price": 128,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "10",
+      "name": "Mix Veg Curry",
+      "category": "Veg",
+      "price": 129,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "11",
+      "name": "Jeera Rice",
+      "category": "Veg",
+      "price": 130,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "12",
+      "name": "Rajma Curry",
+      "category": "Veg",
+      "price": 131,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "13",
+      "name": "Malai Kofta",
+      "category": "Veg",
+      "price": 132,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "14",
+      "name": "Veg Manchurian",
+      "category": "Veg",
+      "price": 133,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "15",
+      "name": "Veg Noodles",
+      "category": "Veg",
+      "price": 134,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "16",
+      "name": "Masala Dosa",
+      "category": "Veg",
+      "price": 135,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "17",
+      "name": "Plain Dosa",
+      "category": "Veg",
+      "price": 136,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "18",
+      "name": "Onion Dosa",
+      "category": "Veg",
+      "price": 137,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "19",
+      "name": "Rava Dosa",
+      "category": "Veg",
+      "price": 138,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "20",
+      "name": "Idli Sambar",
+      "category": "Veg",
+      "price": 139,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "21",
+      "name": "Medu Vada",
+      "category": "Veg",
+      "price": 140,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "22",
+      "name": "Pongal",
+      "category": "Veg",
+      "price": 141,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "23",
+      "name": "Curd Rice",
+      "category": "Veg",
+      "price": 142,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "24",
+      "name": "Tomato Rice",
+      "category": "Veg",
+      "price": 143,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "25",
+      "name": "Lemon Rice",
+      "category": "Veg",
+      "price": 144,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "26",
+      "name": "Vegetable Pulao",
+      "category": "Veg",
+      "price": 145,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "27",
+      "name": "Paneer Biryani",
+      "category": "Veg",
+      "price": 146,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "28",
+      "name": "Methi Chaman",
+      "category": "Veg",
+      "price": 147,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "29",
+      "name": "Capsicum Masala",
+      "category": "Veg",
+      "price": 148,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "30",
+      "name": "Paneer Tikka Masala",
+      "category": "Veg",
+      "price": 149,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "31",
+      "name": "Baby Corn Masala",
+      "category": "Veg",
+      "price": 150,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "32",
+      "name": "Gobi Manchurian",
+      "category": "Veg",
+      "price": 151,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "33",
+      "name": "Veg Spring Roll",
+      "category": "Veg",
+      "price": 152,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "34",
+      "name": "Paneer Fried Rice",
+      "category": "Veg",
+      "price": 153,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "35",
+      "name": "Mushroom Fried Rice",
+      "category": "Veg",
+      "price": 154,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "36",
+      "name": "Veg Schezwan Rice",
+      "category": "Veg",
+      "price": 155,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "37",
+      "name": "Vegetable Curry",
+      "category": "Veg",
+      "price": 156,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "38",
+      "name": "Aloo Mutter",
+      "category": "Veg",
+      "price": 157,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "39",
+      "name": "Bhindi Fry",
+      "category": "Veg",
+      "price": 158,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "40",
+      "name": "Stuffed Capsicum",
+      "category": "Veg",
+      "price": 159,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "41",
+      "name": "Paneer Bhurji",
+      "category": "Veg",
+      "price": 160,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "42",
+      "name": "Vegetable Korma",
+      "category": "Veg",
+      "price": 161,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "43",
+      "name": "Spinach Corn Curry",
+      "category": "Veg",
+      "price": 162,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "44",
+      "name": "Paneer Lababdar",
+      "category": "Veg",
+      "price": 163,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "45",
+      "name": "Veg Kofta Curry",
+      "category": "Veg",
+      "price": 164,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "46",
+      "name": "Butter Naan Combo",
+      "category": "Veg",
+      "price": 165,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "47",
+      "name": "Garlic Naan Combo",
+      "category": "Veg",
+      "price": 166,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "48",
+      "name": "Paneer Kulcha",
+      "category": "Veg",
+      "price": 167,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "49",
+      "name": "Veg Thali",
+      "category": "Veg",
+      "price": 168,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "50",
+      "name": "Paneer Do Pyaza",
+      "category": "Veg",
+      "price": 169,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "51",
+      "name": "Paneer Makhani",
+      "category": "Veg",
+      "price": 170,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "52",
+      "name": "Matar Paneer",
+      "category": "Veg",
+      "price": 171,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "53",
+      "name": "Corn Masala",
+      "category": "Veg",
+      "price": 172,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "54",
+      "name": "Veg Jalfrezi",
+      "category": "Veg",
+      "price": 173,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "55",
+      "name": "Veg Kolhapuri",
+      "category": "Veg",
+      "price": 174,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "56",
+      "name": "Vegetable Stew",
+      "category": "Veg",
+      "price": 175,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "57",
+      "name": "Paneer Handi",
+      "category": "Veg",
+      "price": 176,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "58",
+      "name": "Mushroom Masala",
+      "category": "Veg",
+      "price": 177,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "59",
+      "name": "Veg Hyderabadi",
+      "category": "Veg",
+      "price": 178,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "60",
+      "name": "Spinach Curry",
+      "category": "Veg",
+      "price": 179,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "61",
+      "name": "Veg Kurma",
+      "category": "Veg",
+      "price": 180,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "62",
+      "name": "Paneer Chettinad",
+      "category": "Veg",
+      "price": 181,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "63",
+      "name": "Veg Keema",
+      "category": "Veg",
+      "price": 182,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "64",
+      "name": "Aloo Paratha",
+      "category": "Veg",
+      "price": 183,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "65",
+      "name": "Gobi Paratha",
+      "category": "Veg",
+      "price": 184,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "66",
+      "name": "Paneer Paratha",
+      "category": "Veg",
+      "price": 185,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "67",
+      "name": "Vegetable Sandwich",
+      "category": "Veg",
+      "price": 186,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "68",
+      "name": "Paneer Sandwich",
+      "category": "Veg",
+      "price": 187,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "69",
+      "name": "Cheese Sandwich",
+      "category": "Veg",
+      "price": 188,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "70",
+      "name": "Veg Club Sandwich",
+      "category": "Veg",
+      "price": 189,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "71",
+      "name": "Paneer Wrap",
+      "category": "Veg",
+      "price": 190,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "72",
+      "name": "Veg Roll",
+      "category": "Veg",
+      "price": 191,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "73",
+      "name": "Paneer Roll",
+      "category": "Veg",
+      "price": 192,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "74",
+      "name": "Veg Burger",
+      "category": "Veg",
+      "price": 193,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "75",
+      "name": "Paneer Burger",
+      "category": "Veg",
+      "price": 194,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "76",
+      "name": "Cheese Burger",
+      "category": "Veg",
+      "price": 195,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "77",
+      "name": "Veg Pizza",
+      "category": "Veg",
+      "price": 196,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "78",
+      "name": "Paneer Pizza",
+      "category": "Veg",
+      "price": 197,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "79",
+      "name": "Margherita Pizza",
+      "category": "Veg",
+      "price": 198,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "80",
+      "name": "Cheese Pizza",
+      "category": "Veg",
+      "price": 199,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "81",
+      "name": "Vegetable Pasta",
+      "category": "Veg",
+      "price": 200,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "82",
+      "name": "White Sauce Pasta",
+      "category": "Veg",
+      "price": 201,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "83",
+      "name": "Red Sauce Pasta",
+      "category": "Veg",
+      "price": 202,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "84",
+      "name": "Macaroni Pasta",
+      "category": "Veg",
+      "price": 203,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "85",
+      "name": "Veg Momos",
+      "category": "Veg",
+      "price": 204,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "86",
+      "name": "Paneer Momos",
+      "category": "Veg",
+      "price": 205,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "87",
+      "name": "Fried Momos",
+      "category": "Veg",
+      "price": 206,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "88",
+      "name": "Veg Nachos",
+      "category": "Veg",
+      "price": 207,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "89",
+      "name": "Cheese Nachos",
+      "category": "Veg",
+      "price": 208,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "90",
+      "name": "Veg Salad",
+      "category": "Veg",
+      "price": 209,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "91",
+      "name": "Greek Salad",
+      "category": "Veg",
+      "price": 210,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "92",
+      "name": "Fruit Salad",
+      "category": "Veg",
+      "price": 211,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "93",
+      "name": "Paneer Salad",
+      "category": "Veg",
+      "price": 212,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "94",
+      "name": "South Indian Thali",
+      "category": "Veg",
+      "price": 213,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "95",
+      "name": "North Indian Thali",
+      "category": "Veg",
+      "price": 214,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "96",
+      "name": "Special Veg Meal",
+      "category": "Veg",
+      "price": 215,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500"
+    },
+    {
+      "id": "97",
+      "name": "Royal Veg Platter",
+      "category": "Veg",
+      "price": 216,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?w=500"
+    },
+    {
+      "id": "98",
+      "name": "Vegetable Lasagna",
+      "category": "Veg",
+      "price": 217,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500"
+    },
+    {
+      "id": "99",
+      "name": "Corn Cheese Pizza",
+      "category": "Veg",
+      "price": 218,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500"
+    },
+    {
+      "id": "100",
+      "name": "Paneer Sizzler",
+      "category": "Veg",
+      "price": 219,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500"
+    },
+    {
+      "id": "101",
+      "name": "Chicken Biryani",
+      "category": "Non-Veg",
+      "price": 120,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "102",
+      "name": "Mutton Biryani",
+      "category": "Non-Veg",
+      "price": 121,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "103",
+      "name": "Butter Chicken",
+      "category": "Non-Veg",
+      "price": 122,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "104",
+      "name": "Chicken 65",
+      "category": "Non-Veg",
+      "price": 123,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "105",
+      "name": "Fish Fry",
+      "category": "Non-Veg",
+      "price": 124,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "106",
+      "name": "Fish Curry",
+      "category": "Non-Veg",
+      "price": 125,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "107",
+      "name": "Chicken Tikka",
+      "category": "Non-Veg",
+      "price": 126,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "108",
+      "name": "Tandoori Chicken",
+      "category": "Non-Veg",
+      "price": 127,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "109",
+      "name": "Prawn Curry",
+      "category": "Non-Veg",
+      "price": 128,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "110",
+      "name": "Egg Curry",
+      "category": "Non-Veg",
+      "price": 129,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "111",
+      "name": "Chicken Shawarma",
+      "category": "Non-Veg",
+      "price": 130,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "112",
+      "name": "Chicken Kebab",
+      "category": "Non-Veg",
+      "price": 131,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "113",
+      "name": "Seekh Kebab",
+      "category": "Non-Veg",
+      "price": 132,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "114",
+      "name": "Mutton Curry",
+      "category": "Non-Veg",
+      "price": 133,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "115",
+      "name": "Mutton Rogan Josh",
+      "category": "Non-Veg",
+      "price": 134,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "116",
+      "name": "Prawn Fry",
+      "category": "Non-Veg",
+      "price": 135,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "117",
+      "name": "Crab Masala",
+      "category": "Non-Veg",
+      "price": 136,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "118",
+      "name": "Grilled Chicken",
+      "category": "Non-Veg",
+      "price": 137,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "119",
+      "name": "Chicken Fried Rice",
+      "category": "Non-Veg",
+      "price": 138,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "120",
+      "name": "Chicken Noodles",
+      "category": "Non-Veg",
+      "price": 139,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "121",
+      "name": "Chicken Manchurian",
+      "category": "Non-Veg",
+      "price": 140,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "122",
+      "name": "Egg Fried Rice",
+      "category": "Non-Veg",
+      "price": 141,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "123",
+      "name": "Egg Noodles",
+      "category": "Non-Veg",
+      "price": 142,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "124",
+      "name": "Chicken Dum Biryani",
+      "category": "Non-Veg",
+      "price": 143,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "125",
+      "name": "Hyderabadi Chicken Biryani",
+      "category": "Non-Veg",
+      "price": 144,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "126",
+      "name": "Boneless Chicken Curry",
+      "category": "Non-Veg",
+      "price": 145,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "127",
+      "name": "Chicken Masala",
+      "category": "Non-Veg",
+      "price": 146,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "128",
+      "name": "Chicken Korma",
+      "category": "Non-Veg",
+      "price": 147,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "129",
+      "name": "Chicken Chettinad",
+      "category": "Non-Veg",
+      "price": 148,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "130",
+      "name": "Chicken Pepper Fry",
+      "category": "Non-Veg",
+      "price": 149,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "131",
+      "name": "Chicken Roast",
+      "category": "Non-Veg",
+      "price": 150,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "132",
+      "name": "Chicken Wings",
+      "category": "Non-Veg",
+      "price": 151,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "133",
+      "name": "Spicy Chicken Wings",
+      "category": "Non-Veg",
+      "price": 152,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "134",
+      "name": "BBQ Chicken",
+      "category": "Non-Veg",
+      "price": 153,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "135",
+      "name": "Chicken Steak",
+      "category": "Non-Veg",
+      "price": 154,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "136",
+      "name": "Mutton Fry",
+      "category": "Non-Veg",
+      "price": 155,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "137",
+      "name": "Mutton Keema",
+      "category": "Non-Veg",
+      "price": 156,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "138",
+      "name": "Mutton Kebab",
+      "category": "Non-Veg",
+      "price": 157,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "139",
+      "name": "Mutton Soup",
+      "category": "Non-Veg",
+      "price": 158,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "140",
+      "name": "Fish Biryani",
+      "category": "Non-Veg",
+      "price": 159,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "141",
+      "name": "Fish Tikka",
+      "category": "Non-Veg",
+      "price": 160,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "142",
+      "name": "Grilled Fish",
+      "category": "Non-Veg",
+      "price": 161,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "143",
+      "name": "Fish Finger",
+      "category": "Non-Veg",
+      "price": 162,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "144",
+      "name": "Prawn Biryani",
+      "category": "Non-Veg",
+      "price": 163,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "145",
+      "name": "Prawn Masala",
+      "category": "Non-Veg",
+      "price": 164,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "146",
+      "name": "Garlic Prawns",
+      "category": "Non-Veg",
+      "price": 165,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "147",
+      "name": "Crab Fry",
+      "category": "Non-Veg",
+      "price": 166,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "148",
+      "name": "Seafood Platter",
+      "category": "Non-Veg",
+      "price": 167,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "149",
+      "name": "Chicken Hakka Noodles",
+      "category": "Non-Veg",
+      "price": 168,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "150",
+      "name": "Chicken Triple Rice",
+      "category": "Non-Veg",
+      "price": 169,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "151",
+      "name": "Chicken Chilli",
+      "category": "Non-Veg",
+      "price": 170,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "152",
+      "name": "Chicken Dragon",
+      "category": "Non-Veg",
+      "price": 171,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "153",
+      "name": "Chicken Hot Garlic",
+      "category": "Non-Veg",
+      "price": 172,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "154",
+      "name": "Egg Biryani",
+      "category": "Non-Veg",
+      "price": 173,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "155",
+      "name": "Egg Masala",
+      "category": "Non-Veg",
+      "price": 174,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "156",
+      "name": "Boiled Egg Curry",
+      "category": "Non-Veg",
+      "price": 175,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "157",
+      "name": "Egg Roast",
+      "category": "Non-Veg",
+      "price": 176,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "158",
+      "name": "Egg Pepper Fry",
+      "category": "Non-Veg",
+      "price": 177,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "159",
+      "name": "Chicken Combo Meal",
+      "category": "Non-Veg",
+      "price": 178,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "160",
+      "name": "Mutton Combo Meal",
+      "category": "Non-Veg",
+      "price": 179,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "161",
+      "name": "Seafood Combo Meal",
+      "category": "Non-Veg",
+      "price": 180,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "162",
+      "name": "Chicken Wrap",
+      "category": "Non-Veg",
+      "price": 181,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "163",
+      "name": "Chicken Roll",
+      "category": "Non-Veg",
+      "price": 182,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "164",
+      "name": "Chicken Burger",
+      "category": "Non-Veg",
+      "price": 183,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "165",
+      "name": "Chicken Cheese Burger",
+      "category": "Non-Veg",
+      "price": 184,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "166",
+      "name": "Chicken Pizza",
+      "category": "Non-Veg",
+      "price": 185,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "167",
+      "name": "BBQ Chicken Pizza",
+      "category": "Non-Veg",
+      "price": 186,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "168",
+      "name": "Chicken Pasta",
+      "category": "Non-Veg",
+      "price": 187,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "169",
+      "name": "Chicken Alfredo Pasta",
+      "category": "Non-Veg",
+      "price": 188,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "170",
+      "name": "Chicken Caesar Salad",
+      "category": "Non-Veg",
+      "price": 189,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "171",
+      "name": "Tuna Salad",
+      "category": "Non-Veg",
+      "price": 190,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "172",
+      "name": "Chicken Platter",
+      "category": "Non-Veg",
+      "price": 191,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "173",
+      "name": "Royal Non-Veg Platter",
+      "category": "Non-Veg",
+      "price": 192,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "174",
+      "name": "Chicken Tandoori Full",
+      "category": "Non-Veg",
+      "price": 193,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "175",
+      "name": "Chicken Tandoori Half",
+      "category": "Non-Veg",
+      "price": 194,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "176",
+      "name": "Chicken Reshmi Kebab",
+      "category": "Non-Veg",
+      "price": 195,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "177",
+      "name": "Chicken Malai Tikka",
+      "category": "Non-Veg",
+      "price": 196,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "178",
+      "name": "Chicken Achari",
+      "category": "Non-Veg",
+      "price": 197,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "179",
+      "name": "Chicken Kolhapuri",
+      "category": "Non-Veg",
+      "price": 198,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "180",
+      "name": "Chicken Handi",
+      "category": "Non-Veg",
+      "price": 199,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "181",
+      "name": "Chicken Mughlai",
+      "category": "Non-Veg",
+      "price": 200,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "182",
+      "name": "Chicken Curry Special",
+      "category": "Non-Veg",
+      "price": 201,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "183",
+      "name": "Chicken Kadai",
+      "category": "Non-Veg",
+      "price": 202,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "184",
+      "name": "Mutton Boti",
+      "category": "Non-Veg",
+      "price": 203,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "185",
+      "name": "Mutton Pepper Fry",
+      "category": "Non-Veg",
+      "price": 204,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "186",
+      "name": "Mutton Sukka",
+      "category": "Non-Veg",
+      "price": 205,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "187",
+      "name": "Mutton Handi",
+      "category": "Non-Veg",
+      "price": 206,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "188",
+      "name": "Mutton Biryani Special",
+      "category": "Non-Veg",
+      "price": 207,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "189",
+      "name": "Fish Masala",
+      "category": "Non-Veg",
+      "price": 208,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "190",
+      "name": "Fish Curry Kerala Style",
+      "category": "Non-Veg",
+      "price": 209,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "191",
+      "name": "Fish Roast",
+      "category": "Non-Veg",
+      "price": 210,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "192",
+      "name": "Prawn Roast",
+      "category": "Non-Veg",
+      "price": 211,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "193",
+      "name": "Prawn Pepper Fry",
+      "category": "Non-Veg",
+      "price": 212,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "194",
+      "name": "Seafood Biryani",
+      "category": "Non-Veg",
+      "price": 213,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "195",
+      "name": "Seafood Curry",
+      "category": "Non-Veg",
+      "price": 214,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "196",
+      "name": "Seafood Fried Rice",
+      "category": "Non-Veg",
+      "price": 215,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?w=500"
+    },
+    {
+      "id": "197",
+      "name": "Mixed Grill Platter",
+      "category": "Non-Veg",
+      "price": 216,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?w=500"
+    },
+    {
+      "id": "198",
+      "name": "Ultimate Non-Veg Feast",
+      "category": "Non-Veg",
+      "price": 217,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500"
+    },
+    {
+      "id": "199",
+      "name": "Chicken Seekh Roll",
+      "category": "Non-Veg",
+      "price": 218,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500"
+    },
+    {
+      "id": "200",
+      "name": "Mutton Seekh Roll",
+      "category": "Non-Veg",
+      "price": 219,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d29a?w=500"
+    },
+    {
+      "id": "201",
+      "name": "Burger",
+      "category": "Snacks",
+      "price": 120,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "202",
+      "name": "Cheese Burger",
+      "category": "Snacks",
+      "price": 121,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "203",
+      "name": "Pizza",
+      "category": "Snacks",
+      "price": 122,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "204",
+      "name": "French Fries",
+      "category": "Snacks",
+      "price": 123,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "205",
+      "name": "Sandwich",
+      "category": "Snacks",
+      "price": 124,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "206",
+      "name": "Club Sandwich",
+      "category": "Snacks",
+      "price": 125,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "207",
+      "name": "Veg Sandwich",
+      "category": "Snacks",
+      "price": 126,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "208",
+      "name": "Cheese Sandwich",
+      "category": "Snacks",
+      "price": 127,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "209",
+      "name": "Samosa",
+      "category": "Snacks",
+      "price": 128,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "210",
+      "name": "Pani Puri",
+      "category": "Snacks",
+      "price": 129,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "211",
+      "name": "Pav Bhaji",
+      "category": "Snacks",
+      "price": 130,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "212",
+      "name": "Spring Roll",
+      "category": "Snacks",
+      "price": 131,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "213",
+      "name": "Veg Momos",
+      "category": "Snacks",
+      "price": 132,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "214",
+      "name": "Fried Momos",
+      "category": "Snacks",
+      "price": 133,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "215",
+      "name": "Nachos",
+      "category": "Snacks",
+      "price": 134,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "216",
+      "name": "Cheese Nachos",
+      "category": "Snacks",
+      "price": 135,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "217",
+      "name": "Garlic Bread",
+      "category": "Snacks",
+      "price": 136,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "218",
+      "name": "Cheese Garlic Bread",
+      "category": "Snacks",
+      "price": 137,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "219",
+      "name": "Potato Wedges",
+      "category": "Snacks",
+      "price": 138,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "220",
+      "name": "Onion Rings",
+      "category": "Snacks",
+      "price": 139,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "221",
+      "name": "Corn Chaat",
+      "category": "Snacks",
+      "price": 140,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "222",
+      "name": "Masala Corn",
+      "category": "Snacks",
+      "price": 141,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "223",
+      "name": "Paneer Tikka",
+      "category": "Snacks",
+      "price": 142,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "224",
+      "name": "Veg Cutlet",
+      "category": "Snacks",
+      "price": 143,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "225",
+      "name": "Cheese Balls",
+      "category": "Snacks",
+      "price": 144,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "226",
+      "name": "French Toast",
+      "category": "Snacks",
+      "price": 145,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "227",
+      "name": "Veg Wrap",
+      "category": "Snacks",
+      "price": 146,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "228",
+      "name": "Paneer Wrap",
+      "category": "Snacks",
+      "price": 147,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "229",
+      "name": "Veg Roll",
+      "category": "Snacks",
+      "price": 148,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "230",
+      "name": "Paneer Roll",
+      "category": "Snacks",
+      "price": 149,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "231",
+      "name": "Veg Puff",
+      "category": "Snacks",
+      "price": 150,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "232",
+      "name": "Paneer Puff",
+      "category": "Snacks",
+      "price": 151,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "233",
+      "name": "Mushroom Puff",
+      "category": "Snacks",
+      "price": 152,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "234",
+      "name": "Bread Pakora",
+      "category": "Snacks",
+      "price": 153,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "235",
+      "name": "Mirchi Bajji",
+      "category": "Snacks",
+      "price": 154,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "236",
+      "name": "Aloo Bajji",
+      "category": "Snacks",
+      "price": 155,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "237",
+      "name": "Vegetable Pakora",
+      "category": "Snacks",
+      "price": 156,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "238",
+      "name": "Paneer Pakora",
+      "category": "Snacks",
+      "price": 157,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "239",
+      "name": "Veg Nuggets",
+      "category": "Snacks",
+      "price": 158,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "240",
+      "name": "Cheese Nuggets",
+      "category": "Snacks",
+      "price": 159,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "241",
+      "name": "Veg Hot Dog",
+      "category": "Snacks",
+      "price": 160,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "242",
+      "name": "Cheese Hot Dog",
+      "category": "Snacks",
+      "price": 161,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "243",
+      "name": "Veg Taco",
+      "category": "Snacks",
+      "price": 162,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "244",
+      "name": "Cheese Taco",
+      "category": "Snacks",
+      "price": 163,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "245",
+      "name": "Veg Quesadilla",
+      "category": "Snacks",
+      "price": 164,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "246",
+      "name": "Cheese Quesadilla",
+      "category": "Snacks",
+      "price": 165,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "247",
+      "name": "Veg Bruschetta",
+      "category": "Snacks",
+      "price": 166,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "248",
+      "name": "Cheese Bruschetta",
+      "category": "Snacks",
+      "price": 167,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "249",
+      "name": "Veg Platter",
+      "category": "Snacks",
+      "price": 168,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "250",
+      "name": "Snack Combo",
+      "category": "Snacks",
+      "price": 169,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "251",
+      "name": "Veg Maggi",
+      "category": "Snacks",
+      "price": 170,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "252",
+      "name": "Cheese Maggi",
+      "category": "Snacks",
+      "price": 171,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "253",
+      "name": "Masala Maggi",
+      "category": "Snacks",
+      "price": 172,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "254",
+      "name": "Veg Chowmein",
+      "category": "Snacks",
+      "price": 173,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "255",
+      "name": "Cheese Corn Balls",
+      "category": "Snacks",
+      "price": 174,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "256",
+      "name": "Paneer Fingers",
+      "category": "Snacks",
+      "price": 175,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "257",
+      "name": "Paneer Pops",
+      "category": "Snacks",
+      "price": 176,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "258",
+      "name": "Veg Loaded Fries",
+      "category": "Snacks",
+      "price": 177,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "259",
+      "name": "Cheese Loaded Fries",
+      "category": "Snacks",
+      "price": 178,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "260",
+      "name": "Peri Peri Fries",
+      "category": "Snacks",
+      "price": 179,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "261",
+      "name": "Veg Sizzler",
+      "category": "Snacks",
+      "price": 180,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "262",
+      "name": "Paneer Sizzler",
+      "category": "Snacks",
+      "price": 181,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "263",
+      "name": "Veg Nuggets Deluxe",
+      "category": "Snacks",
+      "price": 182,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "264",
+      "name": "Paneer Nuggets",
+      "category": "Snacks",
+      "price": 183,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "265",
+      "name": "Cheese Sticks",
+      "category": "Snacks",
+      "price": 184,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "266",
+      "name": "Mozzarella Sticks",
+      "category": "Snacks",
+      "price": 185,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "267",
+      "name": "Mini Pizza",
+      "category": "Snacks",
+      "price": 186,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "268",
+      "name": "Paneer Mini Pizza",
+      "category": "Snacks",
+      "price": 187,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "269",
+      "name": "Cheese Burst Mini Pizza",
+      "category": "Snacks",
+      "price": 188,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "270",
+      "name": "Veg Open Toast",
+      "category": "Snacks",
+      "price": 189,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "271",
+      "name": "Cheese Toast",
+      "category": "Snacks",
+      "price": 190,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "272",
+      "name": "Paneer Toast",
+      "category": "Snacks",
+      "price": 191,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "273",
+      "name": "Veg Delight Basket",
+      "category": "Snacks",
+      "price": 192,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "274",
+      "name": "Snack Lovers Combo",
+      "category": "Snacks",
+      "price": 193,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "275",
+      "name": "Ultimate Snack Platter",
+      "category": "Snacks",
+      "price": 194,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "276",
+      "name": "Stuffed Garlic Bread",
+      "category": "Snacks",
+      "price": 195,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "277",
+      "name": "Cheesy Breadsticks",
+      "category": "Snacks",
+      "price": 196,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "278",
+      "name": "Paneer Breadsticks",
+      "category": "Snacks",
+      "price": 197,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "279",
+      "name": "Veg Fingers",
+      "category": "Snacks",
+      "price": 198,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "280",
+      "name": "Corn Cheese Nuggets",
+      "category": "Snacks",
+      "price": 199,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "281",
+      "name": "Paneer Corn Balls",
+      "category": "Snacks",
+      "price": 200,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "282",
+      "name": "Veg Crunchy Bites",
+      "category": "Snacks",
+      "price": 201,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "283",
+      "name": "Cheese Crunchy Bites",
+      "category": "Snacks",
+      "price": 202,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "284",
+      "name": "Masala Fries",
+      "category": "Snacks",
+      "price": 203,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "285",
+      "name": "Cheese Fries",
+      "category": "Snacks",
+      "price": 204,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "286",
+      "name": "Paneer Fries",
+      "category": "Snacks",
+      "price": 205,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "287",
+      "name": "Veg Supreme Taco",
+      "category": "Snacks",
+      "price": 206,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "288",
+      "name": "Paneer Taco",
+      "category": "Snacks",
+      "price": 207,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "289",
+      "name": "Mexican Taco",
+      "category": "Snacks",
+      "price": 208,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "290",
+      "name": "Veg Mexican Roll",
+      "category": "Snacks",
+      "price": 209,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "291",
+      "name": "Paneer Mexican Roll",
+      "category": "Snacks",
+      "price": 210,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "292",
+      "name": "Veg Supreme Wrap",
+      "category": "Snacks",
+      "price": 211,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "293",
+      "name": "Paneer Supreme Wrap",
+      "category": "Snacks",
+      "price": 212,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "294",
+      "name": "Cheese Supreme Wrap",
+      "category": "Snacks",
+      "price": 213,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "295",
+      "name": "Veg Party Combo",
+      "category": "Snacks",
+      "price": 214,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "296",
+      "name": "Family Snack Combo",
+      "category": "Snacks",
+      "price": 215,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+    },
+    {
+      "id": "297",
+      "name": "Premium Snack Box",
+      "category": "Snacks",
+      "price": 216,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500"
+    },
+    {
+      "id": "298",
+      "name": "Snack Feast",
+      "category": "Snacks",
+      "price": 217,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500"
+    },
+    {
+      "id": "299",
+      "name": "Grand Snack Platter",
+      "category": "Snacks",
+      "price": 218,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+    },
+    {
+      "id": "300",
+      "name": "Ultimate Snack Feast",
+      "category": "Snacks",
+      "price": 219,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500"
+    },
+    {
+      "id": "301",
+      "name": "Vanilla Ice Cream",
+      "category": "Desserts",
+      "price": 100,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "302",
+      "name": "Chocolate Ice Cream",
+      "category": "Desserts",
+      "price": 101,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "303",
+      "name": "Strawberry Ice Cream",
+      "category": "Desserts",
+      "price": 102,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "304",
+      "name": "Butterscotch Ice Cream",
+      "category": "Desserts",
+      "price": 103,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "305",
+      "name": "Chocolate Cake",
+      "category": "Desserts",
+      "price": 104,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "306",
+      "name": "Black Forest Cake",
+      "category": "Desserts",
+      "price": 105,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "307",
+      "name": "Red Velvet Cake",
+      "category": "Desserts",
+      "price": 106,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "308",
+      "name": "Brownie",
+      "category": "Desserts",
+      "price": 107,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "309",
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 108,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "310",
+      "name": "Walnut Brownie",
+      "category": "Desserts",
+      "price": 109,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "311",
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "price": 110,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "312",
+      "name": "Rasgulla",
+      "category": "Desserts",
+      "price": 111,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "313",
+      "name": "Rasmalai",
+      "category": "Desserts",
+      "price": 112,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "314",
+      "name": "Kaju Katli",
+      "category": "Desserts",
+      "price": 113,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "315",
+      "name": "Mysore Pak",
+      "category": "Desserts",
+      "price": 114,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "316",
+      "name": "Cheesecake",
+      "category": "Desserts",
+      "price": 115,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "317",
+      "name": "Blueberry Cheesecake",
+      "category": "Desserts",
+      "price": 116,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "318",
+      "name": "Donut",
+      "category": "Desserts",
+      "price": 117,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "319",
+      "name": "Chocolate Donut",
+      "category": "Desserts",
+      "price": 118,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "320",
+      "name": "Fruit Salad",
+      "category": "Desserts",
+      "price": 119,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "321",
+      "name": "Fruit Custard",
+      "category": "Desserts",
+      "price": 120,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "322",
+      "name": "Cup Cake",
+      "category": "Desserts",
+      "price": 121,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "323",
+      "name": "Chocolate Cup Cake",
+      "category": "Desserts",
+      "price": 122,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "324",
+      "name": "Pastry",
+      "category": "Desserts",
+      "price": 123,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "325",
+      "name": "Chocolate Pastry",
+      "category": "Desserts",
+      "price": 124,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "326",
+      "name": "Vanilla Pastry",
+      "category": "Desserts",
+      "price": 125,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "327",
+      "name": "Strawberry Pastry",
+      "category": "Desserts",
+      "price": 126,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "328",
+      "name": "Mango Mousse",
+      "category": "Desserts",
+      "price": 127,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "329",
+      "name": "Chocolate Mousse",
+      "category": "Desserts",
+      "price": 128,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "330",
+      "name": "Caramel Pudding",
+      "category": "Desserts",
+      "price": 129,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "331",
+      "name": "Vanilla Pudding",
+      "category": "Desserts",
+      "price": 130,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "332",
+      "name": "Chocolate Pudding",
+      "category": "Desserts",
+      "price": 131,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "333",
+      "name": "Kulfi",
+      "category": "Desserts",
+      "price": 132,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "334",
+      "name": "Mango Kulfi",
+      "category": "Desserts",
+      "price": 133,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "335",
+      "name": "Pista Kulfi",
+      "category": "Desserts",
+      "price": 134,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "336",
+      "name": "Falooda",
+      "category": "Desserts",
+      "price": 135,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "337",
+      "name": "Royal Falooda",
+      "category": "Desserts",
+      "price": 136,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "338",
+      "name": "Dry Fruit Halwa",
+      "category": "Desserts",
+      "price": 137,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "339",
+      "name": "Gajar Halwa",
+      "category": "Desserts",
+      "price": 138,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "340",
+      "name": "Badam Halwa",
+      "category": "Desserts",
+      "price": 139,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "341",
+      "name": "Jalebi",
+      "category": "Desserts",
+      "price": 140,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "342",
+      "name": "Rabdi",
+      "category": "Desserts",
+      "price": 141,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "343",
+      "name": "Jalebi Rabdi",
+      "category": "Desserts",
+      "price": 142,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "344",
+      "name": "Tiramisu",
+      "category": "Desserts",
+      "price": 143,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "345",
+      "name": "Macarons",
+      "category": "Desserts",
+      "price": 144,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "346",
+      "name": "Choco Lava Cake",
+      "category": "Desserts",
+      "price": 145,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "347",
+      "name": "Chocolate Truffle",
+      "category": "Desserts",
+      "price": 146,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "348",
+      "name": "Oreo Shake Dessert",
+      "category": "Desserts",
+      "price": 147,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "349",
+      "name": "Brownie Sundae",
+      "category": "Desserts",
+      "price": 148,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "350",
+      "name": "Royal Dessert Platter",
+      "category": "Desserts",
+      "price": 149,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "351",
+      "name": "Mango Cheesecake",
+      "category": "Desserts",
+      "price": 150,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "352",
+      "name": "Nutella Cheesecake",
+      "category": "Desserts",
+      "price": 151,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "353",
+      "name": "Pineapple Pastry",
+      "category": "Desserts",
+      "price": 152,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "354",
+      "name": "Black Currant Pastry",
+      "category": "Desserts",
+      "price": 153,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "355",
+      "name": "Chocolate Fudge Cake",
+      "category": "Desserts",
+      "price": 154,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "356",
+      "name": "KitKat Cake",
+      "category": "Desserts",
+      "price": 155,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "357",
+      "name": "Ferrero Rocher Cake",
+      "category": "Desserts",
+      "price": 156,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "358",
+      "name": "Belgian Chocolate Cake",
+      "category": "Desserts",
+      "price": 157,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "359",
+      "name": "Chocolate Tart",
+      "category": "Desserts",
+      "price": 158,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "360",
+      "name": "Fruit Tart",
+      "category": "Desserts",
+      "price": 159,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "361",
+      "name": "Apple Pie",
+      "category": "Desserts",
+      "price": 160,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "362",
+      "name": "Blueberry Pie",
+      "category": "Desserts",
+      "price": 161,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "363",
+      "name": "Cherry Pie",
+      "category": "Desserts",
+      "price": 162,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "364",
+      "name": "Milk Cake",
+      "category": "Desserts",
+      "price": 163,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "365",
+      "name": "Kalakand",
+      "category": "Desserts",
+      "price": 164,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "366",
+      "name": "Besan Laddu",
+      "category": "Desserts",
+      "price": 165,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "367",
+      "name": "Motichoor Laddu",
+      "category": "Desserts",
+      "price": 166,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "368",
+      "name": "Coconut Laddu",
+      "category": "Desserts",
+      "price": 167,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "369",
+      "name": "Kheer",
+      "category": "Desserts",
+      "price": 168,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "370",
+      "name": "Payasam",
+      "category": "Desserts",
+      "price": 169,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "371",
+      "name": "Semiya Payasam",
+      "category": "Desserts",
+      "price": 170,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "372",
+      "name": "Badam Kheer",
+      "category": "Desserts",
+      "price": 171,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "373",
+      "name": "Dry Fruit Kheer",
+      "category": "Desserts",
+      "price": 172,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "374",
+      "name": "Premium Dessert Combo",
+      "category": "Desserts",
+      "price": 173,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "375",
+      "name": "Luxury Dessert Platter",
+      "category": "Desserts",
+      "price": 174,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "376",
+      "name": "Vanilla Sundae",
+      "category": "Desserts",
+      "price": 175,
+      "prepTime": "25 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "377",
+      "name": "Chocolate Sundae",
+      "category": "Desserts",
+      "price": 176,
+      "prepTime": "26 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "378",
+      "name": "Strawberry Sundae",
+      "category": "Desserts",
+      "price": 177,
+      "prepTime": "27 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "379",
+      "name": "Banana Split",
+      "category": "Desserts",
+      "price": 178,
+      "prepTime": "28 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "380",
+      "name": "Chocolate Fondue",
+      "category": "Desserts",
+      "price": 179,
+      "prepTime": "29 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "381",
+      "name": "Nutella Brownie",
+      "category": "Desserts",
+      "price": 180,
+      "prepTime": "10 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "382",
+      "name": "Chocolate Muffin",
+      "category": "Desserts",
+      "price": 181,
+      "prepTime": "11 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "383",
+      "name": "Blueberry Muffin",
+      "category": "Desserts",
+      "price": 182,
+      "prepTime": "12 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "384",
+      "name": "Red Velvet Muffin",
+      "category": "Desserts",
+      "price": 183,
+      "prepTime": "13 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "385",
+      "name": "Honey Cake",
+      "category": "Desserts",
+      "price": 184,
+      "prepTime": "14 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "386",
+      "name": "Coffee Cake",
+      "category": "Desserts",
+      "price": 185,
+      "prepTime": "15 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "387",
+      "name": "Marble Cake",
+      "category": "Desserts",
+      "price": 186,
+      "prepTime": "16 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "388",
+      "name": "Pineapple Cake",
+      "category": "Desserts",
+      "price": 187,
+      "prepTime": "17 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "389",
+      "name": "Butterscotch Cake",
+      "category": "Desserts",
+      "price": 188,
+      "prepTime": "18 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "390",
+      "name": "Dry Fruit Cake",
+      "category": "Desserts",
+      "price": 189,
+      "prepTime": "19 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "391",
+      "name": "Chocolate Truffle Pastry",
+      "category": "Desserts",
+      "price": 190,
+      "prepTime": "20 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "392",
+      "name": "Mango Delight",
+      "category": "Desserts",
+      "price": 191,
+      "prepTime": "21 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+    },
+    {
+      "id": "393",
+      "name": "Fruit Delight",
+      "category": "Desserts",
+      "price": 192,
+      "prepTime": "22 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+    },
+    {
+      "id": "394",
+      "name": "Royal Kulfi Falooda",
+      "category": "Desserts",
+      "price": 193,
+      "prepTime": "23 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500"
+    },
+    {
+      "id": "395",
+      "name": "Ultimate Dessert Collection",
+      "category": "Desserts",
+      "price": 194,
+      "prepTime": "24 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500"
+    },
+    {
+      "id": "396",
+      "name": "Coca Cola",
+      "category": "Soft Drinks",
+      "price": 50,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "397",
+      "name": "Pepsi",
+      "category": "Soft Drinks",
+      "price": 51,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "398",
+      "name": "Sprite",
+      "category": "Soft Drinks",
+      "price": 52,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "399",
+      "name": "Fanta",
+      "category": "Soft Drinks",
+      "price": 53,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "400",
+      "name": "Mountain Dew",
+      "category": "Soft Drinks",
+      "price": 54,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "401",
+      "name": "7 Up",
+      "category": "Soft Drinks",
+      "price": 55,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "402",
+      "name": "Mirinda",
+      "category": "Soft Drinks",
+      "price": 56,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "403",
+      "name": "Limca",
+      "category": "Soft Drinks",
+      "price": 57,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "404",
+      "name": "Thums Up",
+      "category": "Soft Drinks",
+      "price": 58,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "405",
+      "name": "Maaza",
+      "category": "Soft Drinks",
+      "price": 59,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "406",
+      "name": "Slice",
+      "category": "Soft Drinks",
+      "price": 60,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "407",
+      "name": "Appy Fizz",
+      "category": "Soft Drinks",
+      "price": 61,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "408",
+      "name": "Fresh Lime Soda",
+      "category": "Soft Drinks",
+      "price": 62,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "409",
+      "name": "Sweet Lime Soda",
+      "category": "Soft Drinks",
+      "price": 63,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "410",
+      "name": "Mint Mojito",
+      "category": "Soft Drinks",
+      "price": 64,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "411",
+      "name": "Blue Lagoon",
+      "category": "Soft Drinks",
+      "price": 65,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "412",
+      "name": "Virgin Mojito",
+      "category": "Soft Drinks",
+      "price": 66,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "413",
+      "name": "Watermelon Cooler",
+      "category": "Soft Drinks",
+      "price": 67,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "414",
+      "name": "Orange Cooler",
+      "category": "Soft Drinks",
+      "price": 68,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "415",
+      "name": "Lemon Iced Tea",
+      "category": "Soft Drinks",
+      "price": 69,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "416",
+      "name": "Peach Iced Tea",
+      "category": "Soft Drinks",
+      "price": 70,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "417",
+      "name": "Green Apple Soda",
+      "category": "Soft Drinks",
+      "price": 71,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "418",
+      "name": "Kiwi Cooler",
+      "category": "Soft Drinks",
+      "price": 72,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "419",
+      "name": "Pineapple Punch",
+      "category": "Soft Drinks",
+      "price": 73,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "420",
+      "name": "Tropical Fruit Punch",
+      "category": "Soft Drinks",
+      "price": 74,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "421",
+      "name": "Mango Juice",
+      "category": "Soft Drinks",
+      "price": 75,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "422",
+      "name": "Orange Juice",
+      "category": "Soft Drinks",
+      "price": 76,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "423",
+      "name": "Apple Juice",
+      "category": "Soft Drinks",
+      "price": 77,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "424",
+      "name": "Pineapple Juice",
+      "category": "Soft Drinks",
+      "price": 78,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "425",
+      "name": "Watermelon Juice",
+      "category": "Soft Drinks",
+      "price": 79,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "426",
+      "name": "Banana Shake",
+      "category": "Soft Drinks",
+      "price": 80,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "427",
+      "name": "Chocolate Shake",
+      "category": "Soft Drinks",
+      "price": 81,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "428",
+      "name": "Vanilla Shake",
+      "category": "Soft Drinks",
+      "price": 82,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "429",
+      "name": "Strawberry Shake",
+      "category": "Soft Drinks",
+      "price": 83,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "430",
+      "name": "Oreo Shake",
+      "category": "Soft Drinks",
+      "price": 84,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "431",
+      "name": "KitKat Shake",
+      "category": "Soft Drinks",
+      "price": 85,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "432",
+      "name": "Cold Coffee",
+      "category": "Soft Drinks",
+      "price": 86,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "433",
+      "name": "Chocolate Cold Coffee",
+      "category": "Soft Drinks",
+      "price": 87,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "434",
+      "name": "Caramel Cold Coffee",
+      "category": "Soft Drinks",
+      "price": 88,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "435",
+      "name": "Cappuccino Frappe",
+      "category": "Soft Drinks",
+      "price": 89,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "436",
+      "name": "Mint Cooler",
+      "category": "Soft Drinks",
+      "price": 90,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "437",
+      "name": "Lemon Mint Cooler",
+      "category": "Soft Drinks",
+      "price": 91,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "438",
+      "name": "Virgin Pina Colada",
+      "category": "Soft Drinks",
+      "price": 92,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "439",
+      "name": "Coconut Cooler",
+      "category": "Soft Drinks",
+      "price": 93,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "440",
+      "name": "Fresh Coconut Water",
+      "category": "Soft Drinks",
+      "price": 94,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "441",
+      "name": "Energy Drink Classic",
+      "category": "Soft Drinks",
+      "price": 95,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "442",
+      "name": "Energy Drink Berry",
+      "category": "Soft Drinks",
+      "price": 96,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "443",
+      "name": "Sparkling Apple Drink",
+      "category": "Soft Drinks",
+      "price": 97,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "444",
+      "name": "Sparkling Grape Drink",
+      "category": "Soft Drinks",
+      "price": 98,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "445",
+      "name": "Premium Mocktail Combo",
+      "category": "Soft Drinks",
+      "price": 99,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "446",
+      "name": "Classic Lemonade",
+      "category": "Soft Drinks",
+      "price": 100,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "447",
+      "name": "Pink Lemonade",
+      "category": "Soft Drinks",
+      "price": 101,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "448",
+      "name": "Strawberry Lemonade",
+      "category": "Soft Drinks",
+      "price": 102,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "449",
+      "name": "Blueberry Lemonade",
+      "category": "Soft Drinks",
+      "price": 103,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "450",
+      "name": "Kiwi Lemonade",
+      "category": "Soft Drinks",
+      "price": 104,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "451",
+      "name": "Mango Smoothie",
+      "category": "Soft Drinks",
+      "price": 105,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "452",
+      "name": "Strawberry Smoothie",
+      "category": "Soft Drinks",
+      "price": 106,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "453",
+      "name": "Banana Smoothie",
+      "category": "Soft Drinks",
+      "price": 107,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "454",
+      "name": "Mixed Fruit Smoothie",
+      "category": "Soft Drinks",
+      "price": 108,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "455",
+      "name": "Blueberry Smoothie",
+      "category": "Soft Drinks",
+      "price": 109,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "456",
+      "name": "Iced Americano",
+      "category": "Soft Drinks",
+      "price": 110,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "457",
+      "name": "Iced Latte",
+      "category": "Soft Drinks",
+      "price": 111,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "458",
+      "name": "Vanilla Latte",
+      "category": "Soft Drinks",
+      "price": 112,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "459",
+      "name": "Hazelnut Latte",
+      "category": "Soft Drinks",
+      "price": 113,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "460",
+      "name": "Mocha Frappe",
+      "category": "Soft Drinks",
+      "price": 114,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "461",
+      "name": "Chocolate Frappe",
+      "category": "Soft Drinks",
+      "price": 115,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "462",
+      "name": "Caramel Frappe",
+      "category": "Soft Drinks",
+      "price": 116,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "463",
+      "name": "Mint Frappe",
+      "category": "Soft Drinks",
+      "price": 117,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "464",
+      "name": "Red Bull Classic",
+      "category": "Soft Drinks",
+      "price": 118,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "465",
+      "name": "Red Bull Sugar Free",
+      "category": "Soft Drinks",
+      "price": 119,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "466",
+      "name": "Monster Energy",
+      "category": "Soft Drinks",
+      "price": 120,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "467",
+      "name": "Monster Mango",
+      "category": "Soft Drinks",
+      "price": 121,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "468",
+      "name": "Sparkling Berry Drink",
+      "category": "Soft Drinks",
+      "price": 122,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "469",
+      "name": "Sparkling Peach Drink",
+      "category": "Soft Drinks",
+      "price": 123,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "470",
+      "name": "Luxury Mocktail Platter",
+      "category": "Soft Drinks",
+      "price": 124,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "471",
+      "name": "Sunrise Mocktail",
+      "category": "Soft Drinks",
+      "price": 125,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "472",
+      "name": "Sunset Mocktail",
+      "category": "Soft Drinks",
+      "price": 126,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "473",
+      "name": "Green Mint Mocktail",
+      "category": "Soft Drinks",
+      "price": 127,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "474",
+      "name": "Blue Ocean Mocktail",
+      "category": "Soft Drinks",
+      "price": 128,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "475",
+      "name": "Watermelon Mojito",
+      "category": "Soft Drinks",
+      "price": 129,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "476",
+      "name": "Kiwi Mojito",
+      "category": "Soft Drinks",
+      "price": 130,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "477",
+      "name": "Blueberry Mojito",
+      "category": "Soft Drinks",
+      "price": 131,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "478",
+      "name": "Passion Fruit Mojito",
+      "category": "Soft Drinks",
+      "price": 132,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "479",
+      "name": "Virgin Margarita",
+      "category": "Soft Drinks",
+      "price": 133,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "480",
+      "name": "Mango Margarita",
+      "category": "Soft Drinks",
+      "price": 134,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "481",
+      "name": "Strawberry Margarita",
+      "category": "Soft Drinks",
+      "price": 135,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "482",
+      "name": "Chocolate Milkshake Deluxe",
+      "category": "Soft Drinks",
+      "price": 136,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "483",
+      "name": "Nutella Milkshake",
+      "category": "Soft Drinks",
+      "price": 137,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "484",
+      "name": "Brownie Shake",
+      "category": "Soft Drinks",
+      "price": 138,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "485",
+      "name": "Belgian Chocolate Shake",
+      "category": "Soft Drinks",
+      "price": 139,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "486",
+      "name": "Protein Smoothie",
+      "category": "Soft Drinks",
+      "price": 140,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "487",
+      "name": "Avocado Smoothie",
+      "category": "Soft Drinks",
+      "price": 141,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "488",
+      "name": "Berry Blast Smoothie",
+      "category": "Soft Drinks",
+      "price": 142,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "489",
+      "name": "Detox Green Juice",
+      "category": "Soft Drinks",
+      "price": 143,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "490",
+      "name": "Vitamin C Booster",
+      "category": "Soft Drinks",
+      "price": 144,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "491",
+      "name": "Premium Energy Combo",
+      "category": "Soft Drinks",
+      "price": 145,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500"
+    },
+    {
+      "id": "492",
+      "name": "Family Mocktail Bucket",
+      "category": "Soft Drinks",
+      "price": 146,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=500"
+    },
+    {
+      "id": "493",
+      "name": "Premium Beverage Platter",
+      "category": "Soft Drinks",
+      "price": 147,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500"
+    },
+    {
+      "id": "494",
+      "name": "Rose Milk",
+      "category": "Soft Drinks",
+      "price": 148,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6cf7?w=500"
+    },
+    {
+      "id": "495",
+      "name": "Badam Milk",
+      "category": "Soft Drinks",
+      "price": 149,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
+    },
+    {
+      "id": "496",
+      "name": "Sula Red Wine",
+      "category": "Wines",
+      "price": 800,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "497",
+      "name": "Sula White Wine",
+      "category": "Wines",
+      "price": 835,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "498",
+      "name": "Cabernet Sauvignon",
+      "category": "Wines",
+      "price": 870,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "499",
+      "name": "Merlot Reserve",
+      "category": "Wines",
+      "price": 905,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "500",
+      "name": "Pinot Noir",
+      "category": "Wines",
+      "price": 940,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "501",
+      "name": "Shiraz Classic",
+      "category": "Wines",
+      "price": 975,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "502",
+      "name": "Zinfandel Red",
+      "category": "Wines",
+      "price": 1010,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "503",
+      "name": "Malbec Reserve",
+      "category": "Wines",
+      "price": 1045,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "504",
+      "name": "Rose Wine",
+      "category": "Wines",
+      "price": 1080,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "505",
+      "name": "Sparkling Rose",
+      "category": "Wines",
+      "price": 1115,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "506",
+      "name": "Chardonnay",
+      "category": "Wines",
+      "price": 1150,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "507",
+      "name": "Sauvignon Blanc",
+      "category": "Wines",
+      "price": 1185,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "508",
+      "name": "Riesling",
+      "category": "Wines",
+      "price": 1220,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "509",
+      "name": "Pinot Grigio",
+      "category": "Wines",
+      "price": 1255,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "510",
+      "name": "Moscato",
+      "category": "Wines",
+      "price": 1290,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "511",
+      "name": "Champagne Classic",
+      "category": "Wines",
+      "price": 1325,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "512",
+      "name": "Premium Champagne",
+      "category": "Wines",
+      "price": 1360,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "513",
+      "name": "Brut Sparkling Wine",
+      "category": "Wines",
+      "price": 1395,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "514",
+      "name": "Dessert Wine",
+      "category": "Wines",
+      "price": 1430,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "515",
+      "name": "Port Wine",
+      "category": "Wines",
+      "price": 1465,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "516",
+      "name": "Vintage Red Reserve",
+      "category": "Wines",
+      "price": 1500,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "517",
+      "name": "Royal White Reserve",
+      "category": "Wines",
+      "price": 1535,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "518",
+      "name": "Premium Rose Collection",
+      "category": "Wines",
+      "price": 1570,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "519",
+      "name": "Luxury Sparkling Wine",
+      "category": "Wines",
+      "price": 1605,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "520",
+      "name": "Executive Wine Collection",
+      "category": "Wines",
+      "price": 1640,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "521",
+      "name": "Classic Merlot",
+      "category": "Wines",
+      "price": 1675,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "522",
+      "name": "French Merlot",
+      "category": "Wines",
+      "price": 1710,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "523",
+      "name": "Italian Red Wine",
+      "category": "Wines",
+      "price": 1745,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "524",
+      "name": "Spanish Rioja",
+      "category": "Wines",
+      "price": 1780,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "525",
+      "name": "Australian Shiraz",
+      "category": "Wines",
+      "price": 1815,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "526",
+      "name": "Reserve Cabernet",
+      "category": "Wines",
+      "price": 1850,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "527",
+      "name": "Premium Cabernet",
+      "category": "Wines",
+      "price": 1885,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "528",
+      "name": "Golden Chardonnay",
+      "category": "Wines",
+      "price": 1920,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "529",
+      "name": "Premium Chardonnay",
+      "category": "Wines",
+      "price": 1955,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "530",
+      "name": "White Gold Wine",
+      "category": "Wines",
+      "price": 1990,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "531",
+      "name": "Classic Riesling",
+      "category": "Wines",
+      "price": 2025,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "532",
+      "name": "German Riesling",
+      "category": "Wines",
+      "price": 2060,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "533",
+      "name": "Sweet Moscato",
+      "category": "Wines",
+      "price": 2095,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "534",
+      "name": "Premium Moscato",
+      "category": "Wines",
+      "price": 2130,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "535",
+      "name": "Blush Rose",
+      "category": "Wines",
+      "price": 2165,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "536",
+      "name": "Pink Rose Reserve",
+      "category": "Wines",
+      "price": 2200,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "537",
+      "name": "Vintage Rose",
+      "category": "Wines",
+      "price": 2235,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "538",
+      "name": "Sparkling Brut",
+      "category": "Wines",
+      "price": 2270,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "539",
+      "name": "Sparkling Gold",
+      "category": "Wines",
+      "price": 2305,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "540",
+      "name": "Premium Brut Reserve",
+      "category": "Wines",
+      "price": 2340,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "541",
+      "name": "Luxury Red Blend",
+      "category": "Wines",
+      "price": 2375,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "542",
+      "name": "Luxury White Blend",
+      "category": "Wines",
+      "price": 2410,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "543",
+      "name": "Royal Wine Reserve",
+      "category": "Wines",
+      "price": 2445,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "544",
+      "name": "Presidential Wine",
+      "category": "Wines",
+      "price": 2480,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "545",
+      "name": "Grand Wine Collection",
+      "category": "Wines",
+      "price": 2515,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "546",
+      "name": "French Cabernet Reserve",
+      "category": "Wines",
+      "price": 2550,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "547",
+      "name": "French Merlot Reserve",
+      "category": "Wines",
+      "price": 2585,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "548",
+      "name": "Bordeaux Red",
+      "category": "Wines",
+      "price": 2620,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "549",
+      "name": "Bordeaux Grand Reserve",
+      "category": "Wines",
+      "price": 2655,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "550",
+      "name": "Italian Chianti",
+      "category": "Wines",
+      "price": 2690,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "551",
+      "name": "Italian Chianti Classico",
+      "category": "Wines",
+      "price": 2725,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "552",
+      "name": "Tuscan Red",
+      "category": "Wines",
+      "price": 2760,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "553",
+      "name": "Vintage Tuscan Reserve",
+      "category": "Wines",
+      "price": 2795,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "554",
+      "name": "California Zinfandel",
+      "category": "Wines",
+      "price": 2830,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "555",
+      "name": "California Premium Red",
+      "category": "Wines",
+      "price": 2865,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "556",
+      "name": "Australian Premium Shiraz",
+      "category": "Wines",
+      "price": 2900,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "557",
+      "name": "Australian Reserve Shiraz",
+      "category": "Wines",
+      "price": 2935,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "558",
+      "name": "New Zealand Sauvignon Blanc",
+      "category": "Wines",
+      "price": 2970,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "559",
+      "name": "Premium Sauvignon Blanc",
+      "category": "Wines",
+      "price": 3005,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "560",
+      "name": "Golden Pinot Grigio",
+      "category": "Wines",
+      "price": 3040,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "561",
+      "name": "Premium Pinot Grigio",
+      "category": "Wines",
+      "price": 3075,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "562",
+      "name": "Reserve Sparkling Brut",
+      "category": "Wines",
+      "price": 3110,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "563",
+      "name": "Crystal Sparkling Wine",
+      "category": "Wines",
+      "price": 3145,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "564",
+      "name": "Luxury Champagne Gold",
+      "category": "Wines",
+      "price": 3180,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "565",
+      "name": "Royal Champagne Reserve",
+      "category": "Wines",
+      "price": 3215,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "566",
+      "name": "Premium Dessert Wine Gold",
+      "category": "Wines",
+      "price": 3250,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "567",
+      "name": "Reserve Port Wine",
+      "category": "Wines",
+      "price": 3285,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "568",
+      "name": "Diamond Wine Collection",
+      "category": "Wines",
+      "price": 3320,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "569",
+      "name": "Elite Wine Collection",
+      "category": "Wines",
+      "price": 3355,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "570",
+      "name": "Luxury Executive Wine Set",
+      "category": "Wines",
+      "price": 3390,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "571",
+      "name": "Imperial Red Reserve",
+      "category": "Wines",
+      "price": 3425,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "572",
+      "name": "Imperial White Reserve",
+      "category": "Wines",
+      "price": 3460,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "573",
+      "name": "King Cabernet",
+      "category": "Wines",
+      "price": 3495,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "574",
+      "name": "Queen Merlot",
+      "category": "Wines",
+      "price": 3530,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "575",
+      "name": "Ruby Rose Reserve",
+      "category": "Wines",
+      "price": 3565,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "576",
+      "name": "Vintage Cabernet 2015",
+      "category": "Wines",
+      "price": 3600,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "577",
+      "name": "Vintage Merlot 2014",
+      "category": "Wines",
+      "price": 3635,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "578",
+      "name": "Vintage Shiraz 2016",
+      "category": "Wines",
+      "price": 3670,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "579",
+      "name": "Vintage Chardonnay",
+      "category": "Wines",
+      "price": 3705,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "580",
+      "name": "Vintage Sauvignon Blanc",
+      "category": "Wines",
+      "price": 3740,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "581",
+      "name": "Platinum Sparkling Wine",
+      "category": "Wines",
+      "price": 3775,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "582",
+      "name": "Crystal Brut Reserve",
+      "category": "Wines",
+      "price": 3810,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "583",
+      "name": "Prestige Champagne",
+      "category": "Wines",
+      "price": 3845,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "584",
+      "name": "Gold Label Champagne",
+      "category": "Wines",
+      "price": 3880,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "585",
+      "name": "Royal Prestige Champagne",
+      "category": "Wines",
+      "price": 3915,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "586",
+      "name": "Diamond Reserve Red",
+      "category": "Wines",
+      "price": 3950,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    },
+    {
+      "id": "587",
+      "name": "Diamond Reserve White",
+      "category": "Wines",
+      "price": 3985,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?w=500"
+    },
+    {
+      "id": "588",
+      "name": "Black Label Wine",
+      "category": "Wines",
+      "price": 4020,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500"
+    },
+    {
+      "id": "589",
+      "name": "Gold Reserve Wine",
+      "category": "Wines",
+      "price": 4055,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1558001373-7b93ee48ffa4?w=500"
+    },
+    {
+      "id": "590",
+      "name": "Ultimate Luxury Wine Collection",
+      "category": "Wines",
+      "price": 4090,
+      "prepTime": "2 mins",
+      "availability": true,
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500"
+    }
+  ],
+  "orders": [
+    {
+      "id": "q_BktjTXetQ",
+      "customer": "1/121",
+      "foodName": "Kadai Paneer",
+      "quantity": 1,
+      "instructions": "ADD MORE SPICES",
+      "status": "Served",
+      "totalPrice": 122,
+      "createdAt": "14/06/2026, 19:37:40"
+    }
+  ],
+  "inventory": [
+    {
+      "itemName": "CHICKEN",
+      "category": "NON-VEG",
+      "quantity": 100,
+      "unit": "Kg",
+      "supplier": "MONICA",
+      "lastUpdated": "2026-06-14",
+      "id": "TLkcK9PoKKQ"
+    }
+  ],
+  "bills": [
+    {
+      "id": "ruA--5Q156Q",
+      "orderId": "q_BktjTXetQ",
+      "customer": "1/121",
+      "foodName": "Kadai Paneer",
+      "subtotal": 122,
+      "tax": 6,
+      "serviceCharge": 4,
+      "total": 132,
+      "paymentStatus": "Paid",
+      "date": "14 June 2026",
+      "time": "7:38:06 pm"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "message": "Hotel Food Management System Started",
+      "time": "14/6/2026, 12:12:43 am"
+    },
+    {
+      "id": "wI6cuGe8QSA",
+      "message": "New order placed for Kadai Paneer",
+      "time": "14/6/2026, 7:37:40 pm"
+    },
+    {
+      "id": "ivgUr5U7uWA",
+      "message": "Order #1781446060825 updated to Ready",
+      "time": "14/6/2026, 7:37:49 pm"
+    },
+    {
+      "id": "pGM4KVVyn2w",
+      "message": "Kitchen updated Order #MkZy6TE-0X0 to Served",
+      "time": "14/6/2026, 7:38:01 pm"
+    },
+    {
+      "id": "p_uKka-21mE",
+      "message": "Bill generated for Order #q_BktjTXetQ",
+      "time": "14/6/2026, 7:38:07 pm"
+    },
+    {
+      "id": "43_hv-naH10",
+      "message": "Payment completed for Bill #1781446086975",
+      "time": "14/6/2026, 7:38:31 pm"
+    },
+    {
+      "id": "fekptzn530Q",
+      "message": "CHICKEN added to inventory",
+      "time": "14/6/2026, 7:39:40 pm"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
